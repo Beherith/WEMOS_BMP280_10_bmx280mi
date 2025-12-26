@@ -1,5 +1,6 @@
 // Install ALL of the following libraries via Arduino Library Manager:
 //   Adafruit Unified Sensor by Adafruit
+//   Adafruit BusIO by Adafruit
 //   Adafruit BMP280 Library by Adafruit
 //   Adafruit BME280 Library by Adafruit
 //   Adafruit AHTX0 Library by Adafruit
@@ -222,3 +223,4 @@ void loop() {
   #endif
   // short D0 to RST jumpers for reset executed on wake!
 }
+
